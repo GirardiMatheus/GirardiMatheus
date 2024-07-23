@@ -1,8 +1,11 @@
-## Opa, me chamo Matheus Girardi sou um desenvolvedor Backend
+## Hi, I'm Matheus Girardi and I'm a Backend developer
 
 
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GirardiMatheus&show_icons=true&theme=radical&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirardiMatheus&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirardiMatheus&show_icons=true&theme=radical)
 
 <div> 
     <style="display: inline_block"><br>
