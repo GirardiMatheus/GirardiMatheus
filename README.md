@@ -1,254 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=130&section=header&text=Matheus%20Girardi&fontColor=00FF00&fontSize=34&fontAlignY=40&desc=Infrastructure%20%7C%20DevOps%20%7C%20SRE&descSize=17&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:002b16&height=160&section=header&text=MATHEUS%20GIRARDI&fontColor=00FF66&fontSize=36&fontAlignY=40&desc=INFRASTRUCTURE%20%2F%20DEVOPS%20%2F%20SRE&descSize=13&descAlignY=65&fontAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=echo+%22Hello%2C+world!%22;Infrastructure+%7C+DevOps+%7C+SRE;Automating%2C+monitoring+and+improving+systems;Turning+operational+problems+into+automation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Building+reliable+infrastructure.;Automating+everything+possible.;Observability+over+guesswork.;Engineering+for+reliability." />
 </p>
 
-```bash
-> boot sequence completed ████████████████████ 100%
-
-user: Matheus Girardi
-role: Network Analyst → DevOps / SRE
-focus: Infrastructure | Automation | Observability | Reliability
-status: building, automating and learning
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%26%20SRE-00cc66?style=flat-square&labelColor=080808" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-00cc66?style=flat-square&labelColor=080808" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00cc66?style=flat-square&labelColor=080808" />
+</p>
 
 ---
 
-## `$ whoami`
+### `01 / ABOUT`
 
-I'm an **Infrastructure and Network Analyst** transitioning into **DevOps and SRE**, with hands-on experience in network operations, infrastructure monitoring, incident troubleshooting and automation.
+Infrastructure and Network Analyst focused on evolving towards **DevOps and Site Reliability Engineering**.
 
-My goal is to build and operate **reliable, observable and automated systems**, combining infrastructure knowledge with software and automation.
+My background in network operations, monitoring and troubleshooting drives my approach to infrastructure: understanding systems, automating operations and improving reliability.
 
-I'm particularly interested in:
+Currently exploring the intersection of **Linux, Cloud, Infrastructure as Code, Kubernetes and Observability**.
 
-* ⚙️ Infrastructure & Automation
-* 🐧 Linux & Systems
-* ☁️ Cloud & Containers
-* 🔄 CI/CD & Infrastructure as Code
-* 📊 Observability & Monitoring
-* 🚨 Incident Management & Reliability
-* 🐍 Python & Infrastructure Automation
-* ☸️ Kubernetes
-* 🛠️ DevOps / SRE practices
+### `02 / TECH STACK`
 
-```bash
-$ cat /etc/motd
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,terraform,ansible,git,github,grafana,prometheus&theme=dark" />
+</p>
 
-> I automate repetitive work.
-> I monitor what matters.
-> I investigate incidents.
-> I document what I learn.
-> I improve systems continuously.
-```
+<p align="center">
+  <sub>
+    Infrastructure · Networking · Automation · Containers · CI/CD · Monitoring · Observability
+  </sub>
+</p>
 
----
-
-## `$ cat /proc/career`
+### `03 / ENGINEERING PRINCIPLES`
 
 ```text
-[ NETWORK OPERATIONS ]
-        │
-        ├── TCP/IP
-        ├── Routing & DNS
-        ├── VPN
-        ├── SNMP
-        ├── Monitoring
-        └── Incident Troubleshooting
-                │
-                ▼
-[ INFRASTRUCTURE ]
-        │
-        ├── Linux
-        ├── Windows Server
-        ├── Virtualization
-        ├── Logs & Events
-        └── Availability
-                │
-                ▼
-[ DEVOPS ]
-        │
-        ├── Docker
-        ├── Git / GitHub
-        ├── CI/CD
-        ├── Ansible
-        ├── Terraform
-        └── Python Automation
-                │
-                ▼
-[ SRE ]
-        │
-        ├── Observability
-        ├── Metrics / Logs
-        ├── Alerting
-        ├── Incident Response
-        ├── Reliability
-        └── Automation
+AUTOMATE     → Reduce operational toil.
+OBSERVE      → Understand before troubleshooting.
+MEASURE      → Make decisions based on data.
+DOCUMENT     → Turn knowledge into shared processes.
+RELIABILITY  → Design systems to handle failure.
 ```
 
----
+### `04 / CONNECT`
 
-## `$ ls -la /skills`
-
-### 🐧 Systems & Infrastructure
-
-<div style="display: inline_block">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows Server" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" />
-</div>
-
-**Linux · Windows Server · VMware vSphere · Hyper-V · Active Directory · Storage · Backup**
-
----
-
-### 🌐 Networking
-
-<div style="display: inline_block">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Networking" />
-</div>
-
-**TCP/IP · DNS · DHCP · Routing · VPN · SNMP · Wireshark · Network Troubleshooting**
-
----
-
-### 📊 Observability & Reliability
-
-<div style="display: inline_block">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" />
-</div>
-
-**Zabbix · Grafana · Prometheus · OpenTelemetry · Metrics · Logs · Alerts · Availability · Performance Monitoring**
-
----
-
-### ⚙️ DevOps & Automation
-
-<div style="display: inline_block">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
-</div>
-
-**Docker · Kubernetes · Terraform · Ansible · Git · GitHub Actions · CI/CD**
-
----
-
-### 🐍 Automation & Development
-
-<div style="display: inline_block">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" />
-</div>
-
-**Python · Bash · PowerShell · Paramiko · Netmiko · REST APIs**
-
-I use development primarily as a tool for **automation, integration and operational efficiency**.
-
----
-<!--
-## `$ find /projects -type f`
-
-### 🚀 Infrastructure & SRE Projects
-
-> A collection of projects focused on automation, observability, reliability and infrastructure.
-
-| Project                | Focus                                       | Technologies                         |
-| ---------------------- | ------------------------------------------- | ------------------------------------ |
-| **Runbook**            | Incident response & operational knowledge   | Python · API · Automation            |
-| **Ops App**            | Infrastructure operations & troubleshooting | Python · APIs · Monitoring           |
-| **Infrastructure Lab** | Automated infrastructure provisioning       | Terraform · Ansible · Docker         |
-| **Observability Lab**  | Metrics, logs & alerting                    | Prometheus · Grafana · OpenTelemetry |
-| **Network Automation** | Network configuration & automation          | Python · Netmiko · APIs              |
-| **CI/CD Lab**          | Automated build & deployment                | GitHub Actions · Docker              |
-
-> 🚧 Projects are continuously evolving as I deepen my DevOps and SRE knowledge.
-
----
--->
-## `$ cat /principles`
-
-```text
-┌───────────────────────────────────────────┐
-│              ENGINEERING MINDSET          │
-├───────────────────────────────────────────┤
-│                                           │
-│  Automate before repeating.               │
-│  Monitor before guessing.                 │
-│  Document before forgetting.              │
-│  Measure before optimizing.               │
-│  Design for failure.                      │
-│  Learn from incidents.                    │
-│  Reduce toil.                             │
-│                                           │
-└───────────────────────────────────────────┘
-```
-
----
-
-## `$ uptime`
-
-```text
-Infrastructure experience
-        ↓
-Network Operations
-        ↓
-Systems & Monitoring
-        ↓
-Automation
-        ↓
-DevOps
-        ↓
-SRE
-```
-
-Currently focused on developing deeper expertise in **Linux, Kubernetes, Cloud, Infrastructure as Code, Observability, CI/CD and SRE practices**.
-
----
-
-## `$ git status`
-
-```bash
-On branch main
-
-Changes to be committed:
-  + infrastructure
-  + automation
-  + observability
-  + reliability
-  + continuous learning
-
-working tree: constantly improving
-```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GirardiMatheus/GirardiMatheus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GirardiMatheus/GirardiMatheus/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/GirardiMatheus/GirardiMatheus/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## `$ connect --with matheus`
-
-<div>
-  <a href="https://www.linkedin.com/in/matheus-girardi-4857581a8" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/girardi-matheus">
+    <img src="https://img.shields.io/badge/LinkedIn-00cc66?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:girardimatheus27@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00cc66?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-</div>
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GirardiMatheus/GirardiMatheus/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
-```bash
-$ exit
-
-> Thanks for visiting my profile.
-> Keep learning. Keep automating. Keep improving.
-```
+<p align="center">
+  <sub><code>Keep learning. Keep automating. Keep improving.</code></sub>
+</p>
